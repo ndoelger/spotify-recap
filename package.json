@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "engine": "20.5.1",
   "cacheDirectories": [
     "node_modules",
     "client/node_modules"
